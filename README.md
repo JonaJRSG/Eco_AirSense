@@ -6,7 +6,7 @@ La información se visualiza en un **dashboard web interactivo** desarrollado co
 
 ---
 
-## ⚙️ Prerrequisitos
+## ⚙️ Prerrequisitos frontend
 
 Asegúrate de tener instaladas las siguientes herramientas en tu sistema:
 
@@ -26,7 +26,7 @@ yarn -v
 
 ---
 
-## 🚀 Instalación y ejecución
+## 🚀 Instalación y ejecución del frontend
 
 1. Clona este repositorio o descarga los archivos del proyecto:
 
@@ -80,7 +80,7 @@ eco_airsense/
 
 ---
 
-## 🛠️ Soporte
+## 🛠️ Soporte frontend
 
 Si tienes problemas durante la instalación o ejecución:
 
